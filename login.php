@@ -12,6 +12,6 @@ if(isset($_POST['login'])) {
 	// TODO: Implement database validation for email and password
 	
 	// Success message
-	echo "Welcome back!";
+	echo "Welcome back !";
 }
 ?>
